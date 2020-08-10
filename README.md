@@ -1,6 +1,7 @@
 # Mapping_Earthquakess
 
-![Base Layer Streets][https://github.com/SladeMahoney/Mapping_Earthquakess/blob/master/Screen%20Shot%202020-08-09%20at%206.55.32%20PM.png]![Satellite Map Layer with Legend][https://github.com/SladeMahoney/Mapping_Earthquakess/blob/master/Screen%20Shot%202020-08-09%20at%206.55.45%20PM.png]
+![Base Layer Streets][/SladeMahoney/Mapping_Earthquakess/Screen Shot 2020-08-09 at 6.55.32 PM.png]
+![Satellite Map Layer with Legend][https://github.com/SladeMahoney/Mapping_Earthquakess/blob/master/Screen%20Shot%202020-08-09%20at%206.55.45%20PM.png]
 
 
 
