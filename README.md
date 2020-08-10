@@ -1,8 +1,11 @@
 # Mapping_Earthquakess
 
+![Base Layer Streets][https://github.com/SladeMahoney/Mapping_Earthquakess/blob/master/Screen%20Shot%202020-08-09%20at%206.55.32%20PM.png]![Satellite Map Layer with Legend][https://github.com/SladeMahoney/Mapping_Earthquakess/blob/master/Screen%20Shot%202020-08-09%20at%206.55.45%20PM.png]
 
 
-In this repository I demonstrate how we can easily build a webpage consisting of map and related tools using public available resource and technology.
+
+
+In this repository I demonstrate how to easily build a webpage consisting of map and related tools using public available resource and technology.
 
 Here are some of the technology used:
 
